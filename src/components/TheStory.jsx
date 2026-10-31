@@ -76,7 +76,7 @@ export default function TheStory() {
             }}
           >
             <img
-              src="/the-story.jpg" // Replace with your image path
+              src="./the-story.jpg" // Replace with your image path
               alt="Inside the AtlanticaCors VII submarine coffee shop"
               style={{
                 width: "100%",

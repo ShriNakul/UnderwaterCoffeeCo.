@@ -117,7 +117,7 @@ export default function Main() {
               }}
             >
               <img
-                src="/porthole-view.png"
+                src="./porthole-view.png"
                 alt="Man drinking coffee looking out submarine porthole window"
                 style={{
                   width: "100%",

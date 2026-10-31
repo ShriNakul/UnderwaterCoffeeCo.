@@ -23,7 +23,7 @@ export default function Header({ activeSection }) {
           className="d-flex align-items-center text-decoration-none text-white gap-3"
         >
           <img
-            src="/MainLogo.png"
+            src="./MainLogo.png"
             alt="Underwater Coffee Co."
             className="bi me-2 me-md-3"
             height="64"
