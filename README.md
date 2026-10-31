@@ -8,9 +8,7 @@ Welcome to the official repository for **Underwater Coffee Co.**, a multi-sectio
 
 ## ⚠️ Disclosure: Fictional Concept & AI-Assisted Development
 
-> **Note:** **Underwater Coffee Co. is a completely fictional brand and concept.**
-> 
-> This web application was built for creative demonstration and design exploration purposes. The code architecture, styling hierarchy, component structures, and responsive layouts were crafted in collaboration with **AI assistance** (Gemini) to rapidly iterate on visual guidelines, custom CSS keyframes, and React component modularity.
+> **Note:** **Underwater Coffee Co. is a completely fictional brand and concept made in my head alone, but AI was used in the making of the website**
 
 ---
 
